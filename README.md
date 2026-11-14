@@ -7,7 +7,7 @@ Open test results for **Agentic AI Orchestration**, a skill that helps AI coding
 This page shares what we measured, how we measured it, and what the numbers do **not** show. The skill itself is not in this repository.
 
 - Video walkthrough (15 seconds): https://youtu.be/gRHhazfVgs0
-- Skill listing: _add your Agensi link here after approval_
+- Skill listing: https://www.agensi.io/skills/agentic-ai-orchestration_
 
 ## Summary
 

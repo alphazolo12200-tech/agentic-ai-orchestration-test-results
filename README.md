@@ -1,6 +1,6 @@
 # Agentic AI Orchestration: Test Results
 
-![Results table](images/1-results-table.png)
+![Results table](1-results-table.png)
 
 Open test results for **Agentic AI Orchestration**, a skill that helps AI coding agents design, build and test agents (ReAct loops, plan-and-execute, LangGraph, CrewAI, human approval gates, budgets).
 
@@ -21,7 +21,7 @@ We compared two agent patterns, **ReAct** (a tool loop) and **Plan-Execute** (pl
 
 Token and time figures are averages per task over all 8 tasks (they include the search smoke test below).
 
-![Cost chart](images/2-cost-chart.png)
+![Cost chart](2-cost-chart.png)
 
 ## What we found
 
@@ -55,10 +55,10 @@ Number answers are checked as whole numbers (so "360" does not count as "36"). T
 
 ### Every answer, unedited
 
-![llama answers](images/3-llama-answers-audit.png)
-![qwen answers](images/4-qwen-answers-audit.png)
+![llama answers](3-llama-answers-audit.png)
+![qwen answers](4-qwen-answers-audit.png)
 
-Plain-text copy: [results/answers.md](results/answers.md)
+Plain-text copy: [answers.md](answers.md)
 
 ## Limits of this data
 
